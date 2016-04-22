@@ -38,7 +38,7 @@ In the `Player` example, we have four database columns each with a different dat
 *  [api:Int]: An integer field.
 *  [api:Percentage]: A decimal number between 0 and 1 that represents a percentage.
 *  [api:SS_Datetime]: A date / time field
-*  [api:Text]: A variable-length string of up to 2MB, designed to store raw text
+*  [api:Text]: A variable-length string of up to 16MB, designed to store raw text
 *  [api:Time]: A time field
 *  [api:Varchar]: A variable-length string of up to 255 characters, designed to store raw text.
 
